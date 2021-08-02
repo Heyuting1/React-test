@@ -1,1 +1,1 @@
-’ console.log(jialitest)
+console.log(jialitest)
