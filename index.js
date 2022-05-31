@@ -1,4 +1,4 @@
-const a='test1修改'
+const a=2
 console.log('123')
 
 
